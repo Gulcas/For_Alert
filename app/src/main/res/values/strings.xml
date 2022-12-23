@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">For Alert</string>
+    <string name="tap">Press below button to test the alert</string>
+    <string name="alert">Alert</string>
+</resources>
